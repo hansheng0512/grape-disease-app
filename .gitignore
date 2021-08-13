@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+train/data
+train/output
+train/logs
+train/model
